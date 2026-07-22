@@ -1,43 +1,91 @@
-# Mission AI 2027
+# Eric Root
 
-Welcome to my AI learning and portfolio repository.
+## AI Consultant | Hospitality Operations Leader | Process Improvement | Prompt Engineering
 
-## Objective
+## About Me
 
-My goal is to develop practical AI engineering, automation, and consulting skills through hands-on projects and continuous learning.
+I am an experienced hospitality operations leader with nearly two decades of leadership experience.
 
-## Current Progress
+I am transitioning into AI consulting with a focus on helping businesses improve efficiency through AI, automation, workflow optimization, and prompt engineering.
 
-- ✅ OpenAI AI Foundations Certificate
-- ✅ GitHub portfolio created
-- ✅ Prompt Library started
+My goal is to help organizations reduce costs, improve customer experiences, and increase employee productivity through practical AI solutions.
 
-## Current Projects
+## Core Skills
 
-- Prompt Library
-- Meeting Notes Assistant (Coming Soon)
-- AI Email Assistant (Coming Soon)
+- AI Consulting
+- Prompt Engineering
+- Business Process Analysis
+- Workflow Automation
+- Hospitality Operations
+- Customer Experience
+- Employee Training
+- Leadership Development
+- Documentation
+- Process Improvement
+
+
+  ## Portfolio Projects
+
+### AI Business Analysis
+Business consulting report for an independent bookstore.
+
+### Customer Service Improvement Plan
+Consulting deliverable for a hotel chain.
+
+### HVAC Sales Strategy
+Sales growth strategy for an HVAC company.
+
+### Coffee Shop SOP
+Professional operating procedure.
+
+### Employee Retention Strategy
+Executive HR consulting brief.
+
+### Employee Onboarding Package
+Complete onboarding documentation.
+
+
+## Prompt Library
+
+Professional AI prompts including:
+
+- Business Analysis
+- Customer Service
+- Sales Strategy
+- SOP Creation
+- HR Documentation
+- Employee Onboarding
+
 
 ## Certifications
 
-- OpenAI AI Foundations ✅
+- OpenAI AI Foundations
 
-## Technologies
 
-- ChatGPT
-- GitHub
-- Markdown
+## Currently Learning
 
-More tools will be added as I continue learning.
-
-## Portfolio Roadmap
-
-- Prompt Engineering
-- AI Assistants
-- Workflow Automation
-- AI Agents
-- APIs
-- RAG
 - AI Consulting
+- Prompt Engineering
+- Business Automation
+- GitHub Portfolio Development
+- AI Workflow Design
 
-Thanks for visiting!
+
+## Professional Goals
+
+- Build an AI consulting portfolio
+- Help businesses improve operations with AI
+- Develop practical automation solutions
+- Continue earning AI certifications
+
+
+## Contact
+
+LinkedIn:
+(Add your LinkedIn URL)
+
+GitHub:
+(Add your GitHub repository URL)
+
+
+
