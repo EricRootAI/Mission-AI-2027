@@ -8,15 +8,13 @@ The proposed approach focuses on using AI to assist—not replace—employees. O
 
 This case study outlines a phased implementation roadmap designed to minimize disruption while delivering measurable operational improvements. The recommendations emphasize responsible AI adoption, employee training, data security, and continuous improvement to ensure long-term value for both the organization and its guests.
 
-## Business Problem
+## Business Challenge
 
-Hotels face challenges including:
+Hospitality organizations operate in an increasingly competitive environment where guest expectations continue to rise while labor costs and operational complexity increase. Managers must balance delivering exceptional guest experiences with controlling expenses, maintaining compliance, onboarding new employees efficiently, and responding quickly to changing business demands.
 
-- High call volume
-- Long guest wait times
-- Staffing shortages
-- Repetitive administrative work
-- Inconsistent guest communication
+Many daily responsibilities—including answering repetitive employee questions, creating reports, drafting operational documents, scheduling staff, updating standard operating procedures, and analyzing performance metrics—consume valuable leadership time. These manual processes can reduce the time available for guest interaction, employee coaching, and strategic planning.
+
+Artificial intelligence presents an opportunity to streamline administrative work, improve access to organizational knowledge, and support faster, more consistent decision-making. When implemented responsibly, AI serves as a productivity tool that empowers employees and leaders rather than replacing them, enabling hospitality organizations to deliver more consistent service while improving operational efficiency.
 
 ## AI Solution
 
