@@ -1,60 +1,53 @@
-# AI Hospitality Operations Improvement
+# Hospitality AI Operations Improvement Case Study
 
 ## Executive Summary
 
-This portfolio project demonstrates how artificial intelligence can improve operations, guest satisfaction, employee productivity, and business performance within a hospitality organization. The recommendations presented are based on industry best practices, operational leadership experience, and modern AI technologies.
+A demonstration of how artificial intelligence can improve hotel operations while enhancing the guest experience and supporting employees.
 
----
+## Business Problem
 
-## Business Challenge
+Hotels face challenges including:
 
-Hospitality organizations face increasing labor costs, staffing shortages, inconsistent guest experiences, and growing operational complexity. AI provides opportunities to streamline processes while allowing employees to focus on delivering exceptional guest service.
+- High call volume
+- Long guest wait times
+- Staffing shortages
+- Repetitive administrative work
+- Inconsistent guest communication
 
----
+## AI Solution
 
-## Current State
+Implement AI-powered tools to assist with:
 
-* Manual administrative tasks consume valuable employee time.
-* Training consistency varies across locations.
-* Guest service opportunities may be missed due to limited real-time insights.
-* Managers spend significant time creating schedules, reports, and operational documentation.
+- Guest FAQs
+- Reservation assistance
+- Employee knowledge search
+- Meeting summaries
+- Daily operations reporting
 
----
+## Expected Benefits
 
-## AI Opportunities
+- Faster guest response times
+- Reduced administrative workload
+- Better consistency
+- Improved employee productivity
+- Enhanced guest satisfaction
 
-### Guest Experience
+## Responsible AI Considerations
 
-### Employee Training
+- Human oversight for important decisions
+- Protection of guest privacy
+- Transparency when AI is used
+- Bias monitoring
+- AI assists employees rather than replacing them
 
-### Labor Optimization
+## Technologies
 
-### Predictive Analytics
+- ChatGPT
+- Microsoft Copilot
+- GitHub
+- Prompt Engineering
+- Workflow Automation
 
-### Knowledge Management
+## Author
 
----
-
-## Implementation Roadmap
-
-### Phase 1 (30 Days)
-
-### Phase 2 (60 Days)
-
-### Phase 3 (90 Days)
-
----
-
-## Expected Business Results
-
----
-
-## Estimated ROI
-
----
-
-## Technology Recommendations
-
----
-
-## Final Executive Recommendation
+Eric Root
