@@ -1,3 +1,53 @@
+# Mission AI 2027
+
+## AI Consulting Portfolio
+
+---
+
+# Hospitality AI Operations Transformation Case Study
+
+## AI-Powered Framework for Improving Hospitality Operations, Employee Enablement, and Guest Experience
+
+---
+
+## Document Information
+
+| Field | Details |
+|-------|---------|
+| Project | Hospitality AI Operations Transformation Framework |
+| Portfolio | Mission AI 2027 |
+| Category | AI Consulting Case Study |
+| Industry Focus | Hospitality Operations |
+| Version | 1.0 |
+| Status | Completed |
+| Date | July 2026 |
+
+---
+
+# Executive Overview
+
+This case study demonstrates the application of artificial intelligence consulting principles within a hospitality operations environment.
+
+The framework explores how AI can support organizations by improving operational efficiency, strengthening employee development, enhancing guest experiences, and providing leaders with better decision-support capabilities.
+
+The solution focuses on responsible AI adoption by combining technology with human expertise, operational knowledge, and service excellence.
+
+---
+
+# Prepared By
+
+**Eric Root**
+
+AI Consulting Portfolio Development
+
+Mission AI 2027
+
+---
+
+> "Technology provides the tools. People create the experience."
+
+---
+
 # Portfolio-07: Hospitality AI Case Study
 
 # AI-Powered Hospitality Operations Improvement Framework
