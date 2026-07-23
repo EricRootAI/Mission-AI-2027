@@ -2,7 +2,11 @@
 
 ## Executive Summary
 
-A demonstration of how artificial intelligence can improve hotel operations while enhancing the guest experience and supporting employees.
+Artificial intelligence is rapidly transforming the hospitality industry by improving operational efficiency, supporting employees, and enhancing the guest experience. This portfolio case study presents a practical AI implementation strategy for a mid-sized hospitality organization seeking to reduce administrative workload, improve consistency, and enable leaders to make faster, data-informed decisions.
+
+The proposed approach focuses on using AI to assist—not replace—employees. Opportunities include AI-assisted guest communications, intelligent knowledge management, employee onboarding support, document generation, scheduling assistance, and operational reporting. By automating repetitive administrative tasks, hospitality leaders can devote more time to coaching employees, engaging with guests, and driving business results.
+
+This case study outlines a phased implementation roadmap designed to minimize disruption while delivering measurable operational improvements. The recommendations emphasize responsible AI adoption, employee training, data security, and continuous improvement to ensure long-term value for both the organization and its guests.
 
 ## Business Problem
 
