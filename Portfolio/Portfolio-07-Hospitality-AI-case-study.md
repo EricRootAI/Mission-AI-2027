@@ -1,4 +1,4 @@
-Portfolio-07: Hospitality AI Case Study
+# Portfolio-07: Hospitality AI Case Study
 
 AI-Powered Hospitality Operations Improvement Framework
 
@@ -111,8 +111,23 @@ Any AI solution must support employees and leaders while preserving:
 
 ⸻
 
-AI Solution Design
+# AI Solution Design
 
+                Hospitality Leadership
+                         │
+                         ▼
+          AI Hospitality Operations Assistant
+                         │
+ ┌──────────┬──────────┬──────────┬──────────┬──────────┐
+ │          │          │          │          │
+ ▼          ▼          ▼          ▼          ▼
+Knowledge  Training   Guest      Executive  Workflow
+Assistant  Assistant  Analytics  Support    Automation
+ │          │          │          │          │
+ └──────────┴──────────┴──────────┴──────────┘
+                         │
+                         ▼
+         Better Guest Experience & Operations
 Hospitality AI Operations Assistant Framework
 
 The proposed solution is a Hospitality AI Operations Assistant Framework designed to support leaders, employees, and operational teams through intelligent knowledge access, workflow improvement, and decision support.
@@ -199,7 +214,7 @@ Potential Applications
 * Identify trends and opportunities
 * Assist with strategic planning
 
-Business Value
+# Business Value
 
 * Faster decision-making
 * Improved communication
@@ -241,7 +256,17 @@ Leaders provide direction.
 The most effective AI solutions strengthen the people who deliver the guest experience every day.
 
 
-AI Implementation Roadmap
+# AI Implementation Roadmap
+Days 1–30
+Discovery & Assessment
+        │
+        ▼
+Days 31–60
+Pilot Development & Testing
+        │
+        ▼
+Days 61–90
+Deployment & Optimization
 
 Overview
 
