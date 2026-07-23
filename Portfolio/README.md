@@ -100,7 +100,7 @@ Key Skills Demonstrated:
 
 ⸻
 
-Portfolio-07: Hospitality AI Case Study
+Portfolio-07: Hospitality AI Operations Transformation Case Study
 
 Focus Area: AI Transformation in Hospitality Operations
 
