@@ -82,10 +82,10 @@ Professional AI prompts including:
 ## Contact
 
 LinkedIn:
-(Add your LinkedIn URL)
+https://www.linkedin.com/in/eric-root-0a8965423/
 
 GitHub:
-(Add your GitHub repository URL)
+https://github.com/EricRootAI
 
 
 
