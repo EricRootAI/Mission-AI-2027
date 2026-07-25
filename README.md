@@ -1,91 +1,134 @@
-# Eric Root
 
-## AI Consultant | Hospitality Operations Leader | Process Improvement | Prompt Engineering
+# 🚀 Mission AI 2027
 
-## About Me
+> **Mission:** Transform nearly two decades of hospitality leadership into an AI consulting career by building practical, business-focused AI solutions that improve operations, customer experience, employee productivity, and organizational efficiency.
 
-I am an experienced hospitality operations leader with nearly two decades of leadership experience.
+---
 
-I am transitioning into AI consulting with a focus on helping businesses improve efficiency through AI, automation, workflow optimization, and prompt engineering.
+# About This Project
 
-My goal is to help organizations reduce costs, improve customer experiences, and increase employee productivity through practical AI solutions.
+Mission AI 2027 is my public learning journey and professional portfolio documenting my transition into Artificial Intelligence consulting.
 
-## Core Skills
+Rather than simply collecting certifications, this repository demonstrates my commitment to applying AI to real-world business challenges through prompt engineering, workflow design, documentation, process improvement, and consulting case studies.
 
-- AI Consulting
+Every project in this repository represents another step toward becoming a trusted AI consultant capable of helping organizations responsibly adopt Generative AI.
+
+---
+
+# Current Focus
+
+I am actively developing experience in:
+
 - Prompt Engineering
-- Business Process Analysis
-- Workflow Automation
-- Hospitality Operations
-- Customer Experience
-- Employee Training
-- Leadership Development
-- Documentation
-- Process Improvement
-
-
-  ## Portfolio Projects
-
-### AI Business Analysis
-Business consulting report for an independent bookstore.
-
-### Customer Service Improvement Plan
-Consulting deliverable for a hotel chain.
-
-### HVAC Sales Strategy
-Sales growth strategy for an HVAC company.
-
-### Coffee Shop SOP
-Professional operating procedure.
-
-### Employee Retention Strategy
-Executive HR consulting brief.
-
-### Employee Onboarding Package
-Complete onboarding documentation.
-
-
-## Prompt Library
-
-Professional AI prompts including:
-
-- Business Analysis
-- Customer Service
-- Sales Strategy
-- SOP Creation
-- HR Documentation
-- Employee Onboarding
-
-
-## Certifications
-
-- OpenAI AI Foundations
-
-
-## Currently Learning
-
-- AI Consulting
-- Prompt Engineering
-- Business Automation
-- GitHub Portfolio Development
 - AI Workflow Design
+- Business Process Automation
+- Standard Operating Procedures (SOPs)
+- Customer Experience Optimization
+- Hospitality AI Solutions
+- Knowledge Management
+- AI Consulting Best Practices
+- Responsible AI Implementation
 
+---
 
-## Professional Goals
+# Repository Structure
 
-- Build an AI consulting portfolio
-- Help businesses improve operations with AI
-- Develop practical automation solutions
-- Continue earning AI certifications
+## 📂 Prompt Library
 
+A growing collection of professional prompts designed for business applications including:
 
-## Contact
+- SOP Creation
+- Employee Training
+- Customer Service
+- Business Planning
+- Documentation
+- Operational Excellence
 
-LinkedIn:
-https://www.linkedin.com/in/eric-root-0a8965423/
+---
 
-GitHub:
-https://github.com/EricRootAI
+## 📂 Portfolio
 
+Professional consulting examples demonstrating practical AI implementation including:
 
+- Case Studies
+- AI Strategy
+- Workflow Design
+- Hospitality Solutions
+- Business Documentation
+- Consulting Deliverables
 
+---
+
+## 📂 Certificates
+
+Documentation of completed AI certifications and professional development.
+
+Completed certifications are added here as milestones throughout my journey.
+
+---
+
+# Roadmap
+
+## ✅ Phase 1 — Foundations
+
+- Build GitHub Portfolio
+- Complete AI Fundamentals
+- Learn Prompt Engineering
+- Develop Documentation Skills
+
+---
+
+## 🚧 Phase 2 — Portfolio Development
+
+Current Focus
+
+- Build hospitality AI case studies
+- Create consulting deliverables
+- Expand prompt library
+- Publish practical business examples
+
+---
+
+## 🔜 Phase 3 — Consulting
+
+Future Goals
+
+- Develop AI consulting packages
+- Work with businesses implementing AI
+- Publish additional case studies
+- Build long-term client relationships
+
+---
+
+# Why Hospitality?
+
+After spending nearly twenty years leading teams within one of the world's most recognized hospitality organizations, I understand that successful technology adoption depends on people, processes, and clear communication.
+
+Artificial Intelligence is no different.
+
+My goal is to bridge the gap between business operations and emerging AI technologies by helping organizations implement AI in practical, ethical, and measurable ways.
+
+---
+
+# Mission Statement
+
+Mission AI 2027 is more than a learning project.
+
+It is a long-term commitment to continuous education, practical application, and sharing knowledge with others while building a professional AI consulting practice.
+
+---
+
+# Connect
+
+I'm always interested in discussing:
+
+- Artificial Intelligence
+- Hospitality Innovation
+- Business Process Improvement
+- Prompt Engineering
+- AI Consulting
+- Workflow Automation
+
+Thank you for visiting Mission AI 2027.
+
+⭐ If you find this repository helpful, feel free to follow my journey as I continue building toward becoming a professional AI consultant.
