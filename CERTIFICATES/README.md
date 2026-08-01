@@ -1,3 +1,4 @@
-# Certificates
+## Certifications & Badges
 
-Professional AI certifications earned during Mission AI 2027.
+- ✅ OpenAI AI Foundations
+- ✅ IBM SkillsBuild – AI Explorer: Ready to Discover and Use AI (Credly)
