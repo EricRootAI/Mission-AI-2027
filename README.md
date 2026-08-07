@@ -129,6 +129,14 @@ I'm always interested in discussing:
 - AI Consulting
 - Workflow Automation
 
+- ## AI Consulting Framework
+
+Mission AI 2027 is built around a reusable AI consulting methodology designed to help organizations identify, implement, and govern practical AI solutions across industries.
+
+View the complete framework:
+
+[AI Consulting Capability Framework](./Consulting-Framework/AI-Consulting-Capability-Framework.md)
+
 Thank you for visiting Mission AI 2027.
 
 ⭐ If you find this repository helpful, feel free to follow my journey as I continue building toward becoming a professional AI consultant.
