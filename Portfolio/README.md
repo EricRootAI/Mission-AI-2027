@@ -1,147 +1,65 @@
-AI Consulting Portfolio
+# AI Consulting Portfolio
 
-Mission AI 2027
+## Eric Root AI
 
-This portfolio demonstrates the development of AI consulting capabilities through practical business applications, operational improvement strategies, and AI-powered solutions.
+This portfolio demonstrates my approach to applying artificial intelligence to real organizational problems.
 
-The projects contained within this portfolio combine artificial intelligence knowledge, prompt engineering, business analysis, leadership experience, and hospitality operations expertise.
+My work sits at the intersection of:
 
-⸻
+- AI transformation strategy
+- Hospitality and operational expertise
+- Responsible AI solution design
 
-Portfolio Projects
+I do not approach AI as a technology looking for a problem.
 
-Portfolio-01: SOP Enhancement Framework
+I start with the problem, understand the operational environment, evaluate where AI can create meaningful value, and design practical solutions around the people who will actually use them.
 
-Focus Area: Operational Excellence & Process Improvement
+## Consulting Positioning
 
-This project explores how AI can assist organizations in creating, improving, and maintaining Standard Operating Procedures (SOPs).
+**[00 — Consulting Positioning](./00-Consulting-Positioning/README.md)**
 
-Key Skills Demonstrated:
+My three professional positions:
 
-* Process Documentation
-* Knowledge Management
-* AI-Assisted Workflow Improvement
-* Operational Consistency
+1. [AI Transformation Strategist](./00-Consulting-Positioning/01-AI-Transformation-Strategist.md)
+2. [Hospitality & Operations AI Consultant](./00-Consulting-Positioning/02-Hospitality-Operations-AI-Consultant.md)
+3. [Responsible AI Solutions Architect](./00-Consulting-Positioning/03-Responsible-AI-Solutions-Architect.md)
 
-⸻
+## Portfolio Demonstrations
 
-Portfolio-02: Sales Strategy Framework
+### Hospitality
 
-Focus Area: Revenue Growth & Business Development
+[Hospitality AI Case Study](./Hospitality-AI-Case-Study/)
 
-This project demonstrates how AI can support sales planning, customer insights, opportunity analysis, and strategic decision-making.
+A practical exploration of how AI can improve hospitality operations, employee experiences, customer experiences, and organizational decision-making.
 
-Key Skills Demonstrated:
+### Healthcare
 
-* Sales Analysis
-* Customer Insights
-* AI Strategy Development
-* Business Growth Planning
+[AI-Powered Predictive Hospital Readmission Prevention System](./Healthcare-AI-Readmission-Prevention/)
 
-⸻
+A responsible-AI case study demonstrating predictive analytics, healthcare workflow design, explainability, risk considerations, and implementation planning.
 
-Portfolio-03: Customer Service Improvement Framework
+### Applied AI Consulting Work
 
-Focus Area: Customer Experience & Service Excellence
+- [SOP Creator](./Portfolio-01-SOP.md)
+- [Sales Strategy](./Portfolio-02-Sales-Strategy.md)
+- [Customer Service](./Portfolio-03-Customer-Service.md)
+- [Business Analysis](./Portfolio-04-Business-Analysis.md)
+- [Executive Brief](./Portfolio-05-Executive-Brief.md)
+- [Employee Onboarding](./Portfolio-06-Employee-Onboarding.md)
+- [Hospitality AI Operations](./Portfolio-07-Hospitality-AI-Operations.md)
 
-This project demonstrates how AI can enhance customer service operations through improved communication, knowledge access, and service optimization.
+## Consulting Philosophy
 
-Key Skills Demonstrated:
+> **I don't put AI everywhere. I put AI where it matters.**
 
-* Customer Experience Strategy
-* AI-Assisted Support Solutions
-* Service Improvement
-* Communication Enhancement
+My objective is not to demonstrate that AI can be used.
 
-⸻
+My objective is to demonstrate that I can identify where AI should be used, design a responsible solution, and connect that solution to measurable human and business outcomes.
 
-Portfolio-04: Business Analysis Framework
+---
 
-Focus Area: Data-Informed Decision Making
+## Mission AI 2027
 
-This project explores how AI tools can assist leaders in analyzing information, identifying trends, and making strategic decisions.
+Mission AI 2027 represents my transition from learning about artificial intelligence to demonstrating how AI can be applied thoughtfully, strategically, and responsibly to solve real organizational problems.
 
-Key Skills Demonstrated:
-
-* Business Analysis
-* Data Interpretation
-* Strategic Planning
-* Executive Reporting
-
-⸻
-
-Portfolio-05: Executive Brief Framework
-
-Focus Area: Leadership Communication
-
-This project demonstrates the ability to translate complex AI concepts into clear executive-level recommendations.
-
-Key Skills Demonstrated:
-
-* Executive Communication
-* AI Adoption Strategy
-* Leadership Alignment
-* Strategic Recommendations
-
-⸻
-
-Portfolio-06: Employee Onboarding Framework
-
-Focus Area: Training & Workforce Development
-
-This project explores how AI can improve employee onboarding, training efficiency, and organizational knowledge transfer.
-
-Key Skills Demonstrated:
-
-* Training Development
-* Learning Strategy
-* AI-Powered Knowledge Support
-* Employee Experience Improvement
-
-⸻
-
-Portfolio-07: Hospitality AI Operations Transformation Case Study
-
-Focus Area: AI Transformation in Hospitality Operations
-
-This case study demonstrates how artificial intelligence can improve hospitality operations through enhanced training, guest experience strategies, operational efficiency, and leadership decision support.
-
-Key Skills Demonstrated:
-
-* AI Consulting Strategy
-* Hospitality Operations
-* Prompt Engineering
-* Process Optimization
-* Change Management
-
-⸻
-
-Core AI Consulting Skills Demonstrated
-
-This portfolio showcases experience in:
-
-* Generative AI Applications
-* Prompt Engineering
-* Business Process Improvement
-* AI Strategy Development
-* Knowledge Management
-* Operational Optimization
-* Executive Communication
-
-⸻
-
-Professional Objective
-
-The goal of Mission AI 2027 is to develop practical AI consulting solutions that help organizations improve efficiency, empower employees, and enhance customer experiences through responsible AI adoption.
-
-⸻
-
-Future Portfolio Expansion
-
-Future projects may include:
-
-* AI Implementation Roadmaps
-* AI Training Assistant Prototypes
-* AI Workflow Demonstrations
-* ROI Analysis Models
-* Industry-Specific AI Solutions
+**Technology is not the outcome. Human and business impact is the outcome.**
