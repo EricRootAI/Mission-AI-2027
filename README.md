@@ -422,7 +422,7 @@ I'm interested in conversations involving:
 - Operational Transformation
 - Business Process Improvement
 
-**LinkedIn:** [Eric Root](https://www.linkedin.com/in/ericrootai/)
+**LInkedIN:** [Eric Root | LinkedIn](https://www.linkedin.com/in/eric-root-0a8965423/)
 
 **GitHub:** [EricRootAI](https://github.com/EricRootAI)
 
