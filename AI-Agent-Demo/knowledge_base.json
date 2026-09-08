@@ -1,0 +1,64 @@
+{
+  "company": {
+    "name": "Summit Climate Systems",
+    "industry": "Residential HVAC Services"
+  },
+
+  "business_hours": {
+    "monday_friday": "7:00 AM - 7:00 PM",
+    "saturday": "8:00 AM - 4:00 PM",
+    "sunday": "Closed"
+  },
+
+  "service_area": [
+    "North Ridge",
+    "Lakeview",
+    "Pine Valley",
+    "Westbrook",
+    "Summit County"
+  ],
+
+  "services": [
+    "Air conditioning repair",
+    "Heating repair",
+    "HVAC system maintenance",
+    "Thermostat troubleshooting",
+    "Indoor air quality services",
+    "HVAC system replacement consultations"
+  ],
+
+  "maintenance_plan": {
+    "available": true,
+    "name": "Summit Comfort Plan",
+    "includes": [
+      "Two scheduled maintenance visits per year",
+      "Priority appointment scheduling",
+      "15% discount on eligible repairs"
+    ]
+  },
+
+  "basic_troubleshooting": {
+    "ac_not_cooling": [
+      "Confirm the thermostat is set to COOL.",
+      "Confirm the thermostat temperature is set below the current indoor temperature.",
+      "Check whether the HVAC system has electrical power.",
+      "Check the air filter and replace it if it is visibly dirty."
+    ],
+
+    "blank_thermostat": [
+      "Check whether the HVAC system has electrical power.",
+      "Replace thermostat batteries if the thermostat uses replaceable batteries.",
+      "If the thermostat remains blank, contact Summit Climate Systems for service."
+    ],
+
+    "air_filter": "Most residential air filters should be inspected monthly. Replacement frequency depends on the filter type, household conditions, and manufacturer recommendations."
+  },
+
+  "agent_restrictions": [
+    "Do not provide final repair quotes.",
+    "Do not diagnose equipment failures with certainty.",
+    "Do not invent company policies.",
+    "Do not claim appointment availability without access to scheduling data.",
+    "Escalate potentially dangerous or urgent situations to a human representative."
+  ]
+}
