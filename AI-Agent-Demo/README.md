@@ -1,25 +1,40 @@
-# Customer Service AI Agent
+## Prototype Validation
 
-## Project Overview
+The agent was tested using both representative customer requests and adversarial phrasing designed to expose weaknesses in the initial rule-based implementation.
 
-This project demonstrates a responsible AI customer-service agent for a fictional HVAC company, Summit Climate Systems.
+### Development Progression
 
-The agent is designed to:
+- Version 1 established the initial ANSWER / CLARIFY / ESCALATE decision framework.
+- Adversarial testing identified weaknesses in scheduling, pricing, vulnerable-customer escalation, diagnosis requests, and conversational phrasing.
+- Version 2 improved the classification layer based on observed failures.
+- Version 3 improved verified-response retrieval for service-area questions, AC-not-cooling complaints, and thermostat issues.
 
-- Answer routine customer questions using verified company information.
-- Recognize when available information is insufficient.
-- Avoid inventing company policies, pricing, or technical information.
-- Identify potentially urgent customer situations.
-- Escalate appropriate cases to a human representative.
+### Validation Results
 
-## Decision Framework
+The final Version 3 adversarial test produced:
 
-Every customer request should result in one of three primary actions:
+- 9 requests handled as intended.
+- 1 unsupported request handled with a safe fallback rather than an invented answer.
 
-1. ANSWER — The request can be answered using verified information.
-2. CLARIFY — Additional information is required before the request can be handled safely or accurately.
-3. ESCALATE — The request requires human review or involves an urgent or unsupported situation.
+The prototype demonstrates:
 
-## Development Status
+- Verified-information retrieval.
+- Guardrails against unsupported pricing and diagnosis.
+- Human escalation for potentially dangerous or sensitive situations.
+- Safe fallback behavior when verified information is unavailable.
+- Iterative testing and remediation based on observed failure modes.
 
-**Sprint 1:** Business scenario and decision framework defined.
+## Limitations
+
+This prototype uses deterministic keyword-based rules and is intentionally limited.
+
+It does not yet include:
+
+- Semantic intent recognition.
+- Large language model reasoning.
+- Retrieval-augmented generation.
+- Live scheduling access.
+- CRM integration.
+- Production-grade safety or monitoring.
+
+The project is intended as a portfolio demonstration of responsible AI design, evaluation, and human-escalation principles rather than a deployable production system.
